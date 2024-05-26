@@ -182,7 +182,7 @@ def menu_principal(utilizador, config_path):
         elif re.match(r'4', escolha):
             executar_backup(config_path)
         elif re.match(r'5', escolha):
-            print("ogout...")
+            print("Logout...")
             return
         else:
             print("Escolha inválida. Por favor, tente novamente.")
