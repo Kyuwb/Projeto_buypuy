@@ -1,1 +1,1 @@
-pymsql
+pymyql
